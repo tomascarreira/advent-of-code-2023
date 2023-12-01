@@ -1,5 +1,4 @@
 import Data.Char
-import Text.Parsec as P
 
 main :: IO ()
 main = do
